@@ -1,1 +1,10 @@
 Git clone <HTML> # get project local 
+
+
+git add <file>
+git commit 
+git push origin <branch>
+
+
+
+### Git is a version control tool.
