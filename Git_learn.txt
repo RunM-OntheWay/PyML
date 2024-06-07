@@ -1,10 +1,10 @@
 Git clone <HTML> # get project local 
-
+git fech git merge
 
 git add <file>
-git commit 
+git commit -m "message"
 git push origin <branch>
 
 # create a claasic token and successfully pushed the code.
 
-### Git is a version control tool.
+### Git is a version control tool
